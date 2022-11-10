@@ -1,0 +1,41 @@
+{
+  "name": "Rhuan Capelette Ferraz",
+  "job": "Estudante ADS",
+  "github": "Capelette",
+  "playlists": {
+    "jogos": [
+      {
+        "title": "Início de Gameplay - GOD OF WAR RAGNAROK",
+        "url": "https://www.youtube.com/watch?v=6fNUO23I_BA&t=1s&ab_channel=BRKsEDU",
+        "thumb": "https://img.youtube.com/vi/6fNUO23I_BA/maxresdefault.jpg"
+      },
+      {
+        "title": "Top 10 Frases de Efeito do Schwarzenegger",
+        "url": "https://www.youtube.com/watch?v=We9Aohmlvfk&ab_channel=JovemNerd",
+        "thumb": "https://img.youtube.com/vi/We9Aohmlvfk/maxresdefault.jpg"
+      },
+      {
+        "title": "Frostpunk - Neve e Steak tartare",
+        "url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
+        "thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
+      }
+    ],
+    "front-end": [
+      {
+        "title": "Descobri Como Consertar o Meu Maior Problema",
+        "url": "https://www.youtube.com/watch?v=rHANBi7E2cI&ab_channel=FilipeDeschamps",
+        "thumb": "https://img.youtube.com/vi/rHANBi7E2cI/maxresdefault.jpg"
+      },
+      {
+        "title": "Como funcionam as LINGUAGENS de PROGRAMAÇÃO",
+        "url": "https://www.youtube.com/watch?v=22nd99SLgNA&ab_channel=ManualdoMundo",
+        "thumb": "https://img.youtube.com/vi/22nd99SLgNA/maxresdefault.jpg"
+      },
+      {
+        "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
+        "url": "https://youtube.com/watch?v=jOAU81jdi-c",
+        "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+      }
+    ]
+  }
+}
