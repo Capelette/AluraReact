@@ -1,6 +1,7 @@
 {
   "name": "Rhuan Capelette Ferraz",
   "job": "Estudante ADS",
+  "bg": "https://images.unsplash.com/photo-1529101091764-c3526daf38fe?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1633&q=80",
   "github": "Capelette",
   "playlists": {
     "jogos": [
@@ -16,8 +17,8 @@
       },
       {
         "title": "Frostpunk - Neve e Steak tartare",
-        "url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
-        "thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
+        "url": "https://www.youtube.com/watch?v=QsqatJxAUtk&ab_channel=JovemNerd",
+        "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
       }
     ],
     "front-end": [
